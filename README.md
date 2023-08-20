@@ -2,7 +2,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milton-andrade-1b0744236/)
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juninhoeufrasio/)
-[![Contato](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](11-96515-2919)
 
 ![Milton GitHub stats](https://github-readme-stats.vercel.app/api?username=miltonnn&show_icons=true&theme=tokyonight)
 
