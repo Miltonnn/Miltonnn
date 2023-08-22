@@ -1,4 +1,4 @@
-### Milton Andrade ✌️
+### Ola! Eu sou o Milton Andrade ✌️
 #### Desenvolvedor Front-End Junior 📚👨‍💻
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milton-andrade-1b0744236/)
