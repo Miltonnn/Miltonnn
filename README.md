@@ -11,7 +11,7 @@ Atuo na construção de interfaces modernas, acessíveis e escaláveis, sempre b
 
 ### 🌐 Conecte-se comigo
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milton-andrade-1b0744236/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juninhoeufrasio/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/junioreufrasio_?igsh=MTR2c3hjejl6dTdqMw%3D%3D&utm_source=qr)
 
 ---
 
