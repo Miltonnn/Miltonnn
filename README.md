@@ -62,4 +62,4 @@ Atuo na construção de interfaces modernas, acessíveis e escaláveis, sempre b
 ![Kanban](https://img.shields.io/badge/Kanban-007FFF?style=for-the-badge)
 
 ## 🚀 Objetivo Profissional
-Atuar como desenvolvedor front-end, contribuindo para produtos digitais de alto impacto, com foco em **qualidade, experiência do usuário e performance**, sempre evoluindo tecnicamente e entregando valor real ao negócio.
+Evoluir continuamente como desenvolvedor front-end, atuando no desenvolvimento de interfaces modernas, performáticas e acessíveis, com foco em **UI, UX e boas práticas de engenharia front-end**.
