@@ -1,5 +1,6 @@
-### Ola! Eu sou o Milton Andrade ✌️
-#### Desenvolvedor Front-End 👨‍💻
+### Milton Andrade - Desenvolvedor Front-end
+
+Formado em Análise e Desenvolvimento de Sistemas pela Unicsul, sou um profissional movido pela paixão por tecnologia e inovação. Tenho uma visão ampla do desenvolvimento de software e foco em criar soluções práticas que aliem design, performance e usabilidade. Como desenvolvedor front-end, estou sempre em busca de aprender novas ferramentas e aprimorar minhas habilidades, com o objetivo de entregar projetos que agreguem valor real aos clientes.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milton-andrade-1b0744236/)
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juninhoeufrasio/)
